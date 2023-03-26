@@ -1,6 +1,6 @@
 import { NextResponse } from "next/server";
 
-const site = "http://localhost:3000"
+const site = "http://abdallahauth.vercel.app"
 
 
 export default function middleware(req){

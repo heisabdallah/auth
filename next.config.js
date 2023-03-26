@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   env: {
-    URI: 'mongodb://localhost:27017/jwt',
+    URI: 'mongodb+srv://heisabdallah:warhaz@rola.oe0ji33.mongodb.net/Authentication',
     AUTH_SECRET: 'szdbqjndksko'
   },
 }
